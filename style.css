@@ -1,0 +1,44 @@
+/* .logo img {
+  width: 100px;
+}
+.mobile-menu {
+  display: none;
+}
+p {
+  font-size: 14px;
+}
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex p {
+  flex: 2;
+}
+.flex h4 {
+  flex: 1;
+}
+@media (max-width: 1024px) {
+  .logo img {
+    width: 100%;
+  }
+  nav {
+    display: none;
+  }
+  .mobile-menu {
+    display: block;
+  }
+  p {
+    font-size: 18px;
+  }
+  .container {
+    max-width: 80%;
+  }
+} */
+/* .custom-input {
+
+} */
